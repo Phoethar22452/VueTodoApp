@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Playing Games",
+      "day": "March 3rd 4:00pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Watching Movies GG",
+      "day": "April 4rd 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Eating My Lunch",
+      "day": "June 6rd 7:00pm",
+      "reminder": true
+    }
+  ]
+}
